@@ -5,3 +5,4 @@ logs/
 mlproject.egg-info/
 src/__pycache__/
 src/components/__pycache__/
+src/pipeline/__pycache__/
