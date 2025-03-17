@@ -1,0 +1,7 @@
+.DS_Store
+.venv/
+catboost_info/
+logs/
+mlproject.egg-info/
+src/__pycache__/
+src/components/__pycache__/
